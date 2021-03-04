@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+        <link rel="stylesheet" href="res/0xff.css">
+        <link rel="icon" href="res/user.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="res/user.ico" type="image/x-icon"/>
+        <title>:Profile:</title>
+    </head>
+    <body>
+        <div class="grid-2">
+            <div class="section-1">
+            <h1>- Hello -</h1>
+            <p><img src='res/corz_250x250.png' alt=''></p>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-github"></i></a>
+            <a href="#"><i class="fas fa-cat"></i></i></a>
+            <p><i class="fas fa-code fa-1x grey"></i><code> rm -rf * </code>
+            <i class="fas fa-code fa-1x grey"></i><br></p>
+            <br><br><br>
+        </div>
+        <div class="section-2">
+           	<h2>./About</h2>	
+            <details><summary><i class="fas fa-laptop"></i></summary>
+                <p><i class="fab fa-linux fa-2x"></i> Honestly Im fans of linux distro.
+                First OS : Fedora 8 . Now : Kali 2020.4 Xfce & Mint 20.1 Xfce.<br>
+                Im an IT enthusiast since primary school. Keep learning new things.<br></p></details>
+            <h2>./Achievement</h2>
+        	<details><summary><i class="fas fa-level-down-alt"></i></summary>
+            <p><i class="fas fa-trophy"></i> Pre-order DLC to unlock ahievements.</p></details>
+            <!-- <h2>- Skills -</h2><p>Not found.</p> -->
+            <h2>./Wisdom-Qoute</h2>
+            <p>
+            <i class="fas fa-quote-left"></i> "If you pull the right strings, a puppet will dance any way you desirely" - 2021.
+            </p>
+            </div>
+        </div>
+    </body>
+</html>
